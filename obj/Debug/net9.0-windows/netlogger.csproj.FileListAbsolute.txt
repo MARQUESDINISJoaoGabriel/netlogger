@@ -1,0 +1,14 @@
+C:\Users\KyaSh\Desktop\netlogger\obj\Debug\net9.0-windows\netlogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KyaSh\Desktop\netlogger\obj\Debug\net9.0-windows\netlogger.AssemblyInfoInputs.cache
+C:\Users\KyaSh\Desktop\netlogger\obj\Debug\net9.0-windows\netlogger.AssemblyInfo.cs
+C:\Users\KyaSh\Desktop\netlogger\obj\Debug\net9.0-windows\netlogger.csproj.CoreCompileInputs.cache
+C:\Users\KyaSh\Desktop\netlogger\bin\Debug\net9.0-windows\netlogger.exe
+C:\Users\KyaSh\Desktop\netlogger\bin\Debug\net9.0-windows\netlogger.deps.json
+C:\Users\KyaSh\Desktop\netlogger\bin\Debug\net9.0-windows\netlogger.runtimeconfig.json
+C:\Users\KyaSh\Desktop\netlogger\bin\Debug\net9.0-windows\netlogger.dll
+C:\Users\KyaSh\Desktop\netlogger\bin\Debug\net9.0-windows\netlogger.pdb
+C:\Users\KyaSh\Desktop\netlogger\obj\Debug\net9.0-windows\netlogger.dll
+C:\Users\KyaSh\Desktop\netlogger\obj\Debug\net9.0-windows\refint\netlogger.dll
+C:\Users\KyaSh\Desktop\netlogger\obj\Debug\net9.0-windows\netlogger.pdb
+C:\Users\KyaSh\Desktop\netlogger\obj\Debug\net9.0-windows\netlogger.genruntimeconfig.cache
+C:\Users\KyaSh\Desktop\netlogger\obj\Debug\net9.0-windows\ref\netlogger.dll
