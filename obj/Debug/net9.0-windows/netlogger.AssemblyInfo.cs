@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("netlogger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e27d815af066654d93c72f0c5e392f498c0e4d22")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ab94962de1bb4964e3680c5ea36a31690ebe36f")]
 [assembly: System.Reflection.AssemblyProductAttribute("netlogger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("netlogger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
