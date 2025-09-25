@@ -12,3 +12,4 @@ C:\Users\KyaSh\Desktop\netlogger\obj\Debug\net9.0-windows\refint\netlogger.dll
 C:\Users\KyaSh\Desktop\netlogger\obj\Debug\net9.0-windows\netlogger.pdb
 C:\Users\KyaSh\Desktop\netlogger\obj\Debug\net9.0-windows\netlogger.genruntimeconfig.cache
 C:\Users\KyaSh\Desktop\netlogger\obj\Debug\net9.0-windows\ref\netlogger.dll
+C:\Users\KyaSh\Desktop\netlogger\obj\Debug\net9.0-windows\netlogger.sourcelink.json
